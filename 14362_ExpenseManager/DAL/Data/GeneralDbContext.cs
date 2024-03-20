@@ -1,5 +1,5 @@
 ﻿using _14362_ExpenseManager.DAL.Models;
-using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 namespace _14362_ExpenseManager.DAL.Data
 {
